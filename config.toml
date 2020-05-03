@@ -109,6 +109,12 @@ identifier = "inthepress"
 url = "/pages/in-the-press/"
 
 [[menu.sidebar]]
+name = "Visio Stencils"
+weight = 97
+identifier = "visio"
+url = "/tags/visio/"
+
+[[menu.sidebar]]
 name = "RSS"
 weight = 98
 identifier = "rss"
